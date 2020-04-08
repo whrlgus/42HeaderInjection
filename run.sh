@@ -1,7 +1,7 @@
-# 사용자 정보, 주석 지우고 사용할 것
-# readonly MAIL="gicho@student.42seoul.kr"
+# 사용자 정보, 수정 후 사용할 것
+# ex) MAIL="gicho@student.42seoul.kr"
 readonly MAIL="gicho@student.42seoul.kr"
-# readonly USER="gicho"
+# ex) USER="gicho"
 readonly USER="gicho"
 readonly MAX_LEN_FILE=41
 readonly MAX_LEN_USER=9
